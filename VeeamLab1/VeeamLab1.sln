@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeamLab1", "VeeamLab1\VeeamLab1.csproj", "{20F63E19-53AD-4BDE-AAD1-5ABFE63F4E6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeeamLab1", "VeeamLab1\VeeamLab1.csproj", "{20F63E19-53AD-4BDE-AAD1-5ABFE63F4E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeamLab2", "VeeamLab2\VeeamLab2.csproj", "{679935B0-1F16-4BFC-9F21-492188C6C368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{20F63E19-53AD-4BDE-AAD1-5ABFE63F4E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20F63E19-53AD-4BDE-AAD1-5ABFE63F4E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20F63E19-53AD-4BDE-AAD1-5ABFE63F4E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679935B0-1F16-4BFC-9F21-492188C6C368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679935B0-1F16-4BFC-9F21-492188C6C368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679935B0-1F16-4BFC-9F21-492188C6C368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679935B0-1F16-4BFC-9F21-492188C6C368}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
